@@ -1,0 +1,20 @@
+{
+  "name": "web-framework-js",
+  "version": "0.5.0",
+  "description": "Web Framework JS",
+  "author": "Alexey Lavrenchenko",
+  "license": "Apache-2.0",
+  "scripts": {
+    "build": "gulp build",
+    "core-build": "gulp core-build",
+    "dom-build": "gulp dom-build",
+    "app-build": "gulp app-build",
+    "ui-build": "gulp ui-build",
+    "css-build": "gulp css-build",
+    "ui-css-build": "gulp ui-css-build"
+  },
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.1"
+  }
+}

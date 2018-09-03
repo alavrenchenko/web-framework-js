@@ -1,0 +1,11 @@
+src/**/info.txt
+src/javascript.js
+*.njsproj
+*.user
+package-lock.json
+
+dist/
+node_modules/
+
+[Bb]in/
+[Oo]bj/
