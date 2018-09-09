@@ -51,8 +51,7 @@ module.exports = {
     },
     ui: {
         scripts: {
-            header: `/** ${pkg.name} v ${pkg.version} **/\n`,
-            extensions: ['.jsx'],
+            header: `/** ${pkg.name} v${pkg.version} **/\n`,
             path: {
                 build: `${dist}packages/ui/${js}`,
                 src: `${src}ui/${js}`

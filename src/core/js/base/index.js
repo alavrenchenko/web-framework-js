@@ -19,7 +19,7 @@ WebF.base = {};
 /**
  * @type {string}
  */
-WebF.base.version = '0.5.0';
+WebF.base.version = '0.5.1';
 
 /**
  * Returns true if the specified value is a string.

@@ -149,6 +149,7 @@ WebF.ui.Component.prototype.getEventHandlers = function (type) {
 };
 
 /**
+ * @protected
  * @virtual
  * @param {WebF.events.EDActionEvent} e
  */

@@ -128,6 +128,7 @@ WebF.ui.Control.prototype.getSystemNativeEventTypes = function () {
 };
 
 /**
+ * @protected
  * @override
  * @param {WebF.events.EDActionEvent} e
  */
@@ -990,6 +991,7 @@ WebF.ui.Control.prototype.setMaxHeight = function (value) {
 };
 
 /**
+ * @protected
  * @override
  */
 WebF.ui.Control.prototype.onRender = function () {
@@ -1013,6 +1015,7 @@ WebF.ui.Control.prototype.onRender = function () {
 };
 
 /**
+ * @protected
  * @override
  */
 WebF.ui.Control.prototype.onApply = function () {

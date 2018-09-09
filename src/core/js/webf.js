@@ -21,7 +21,7 @@
 'use strict';
 
 /**
- * Web Framework.
+ * Web Framework JS (WebF).
  * 
  * @namespace
  */

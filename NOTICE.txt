@@ -1,4 +1,4 @@
-WebFrameworkJS:
+WebFrameworkJS (WebF):
 
    Copyright 2018 Alexey Lavrenchenko (http://alavrenchenko.com/). All rights reserved.
 
